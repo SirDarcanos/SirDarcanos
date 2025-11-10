@@ -54,11 +54,12 @@ I write [short essays about **leadership, programming, and the web**](https://ni
 <ul>
 <!-- WEB:START --><li><em> 2025-10-22</em> <a href='https://nicolamustone.blog/2025/10/22/top-5-essential-wordpress-plugins-i-always-install-and-why/'>Top 5 Essential WordPress Plugins I Always Install &lpar;and Why&rpar;</a></li><li><em> 2023-12-05</em> <a href='https://nicolamustone.blog/2023/12/05/ai-and-chatgpt-in-wordpress-a-year-of-transformation/'>AI in WordPress: A Year of Transformation</a></li><li><em> 2023-11-28</em> <a href='https://nicolamustone.blog/2023/11/28/enhancing-wordpress-content-protection-beyond-right-click-blocks/'>Enhancing WordPress Content Protection: Beyond Blocking Right-Clicks</a></li><!-- WEB:END -->
 </ul>
+
 ---
 
 ### Outside of work
 When I’m not deep in code or support dashboards, I’m probably:  
-- Running long-form **D&D campaigns**  
-- Writing new essays
-- Programming some personal project  
+- Running long-form *Dungeons & Dragons* campaigns
+- Writing new essays on [nicolamustone.blog](https://nicolamustone.blog)
+- Coding on some project that will likely become public
 - Or playing games (currently: *Dead by Daylight & Killing Floor 3*)

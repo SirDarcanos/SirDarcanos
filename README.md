@@ -42,7 +42,7 @@ I write [short essays about **leadership, programming, and the web**](https://ni
 
 #### 🧠 Programming
 <ul>
-<!-- PROGRAMMING:START -->- ( 2025-11-04) [Vibe Coding: The Hottest Programming Language of the Year](https://nicolamustone.blog/2025/11/04/vibe-coding-hottest-programming-language-2025/)- ( 2025-11-02) [How I Automated My X Account Cleanup](https://nicolamustone.blog/2025/11/02/automated-x-account-cleanup/)- ( 2023-12-21) [WooCommerce Related Products: What and How to Improve Them](https://nicolamustone.blog/2023/12/21/improve-woocommerce-related-products-recommendations/)<!-- PROGRAMMING:END -->
+<!-- PROGRAMMING:START --><li><em> 2025-11-04</em> <a href='https://nicolamustone.blog/2025/11/04/vibe-coding-hottest-programming-language-2025/'>Vibe Coding: The Hottest Programming Language of the Year</a></li><li><em> 2025-11-02</em> <a href='https://nicolamustone.blog/2025/11/02/automated-x-account-cleanup/'>How I Automated My X Account Cleanup</a></li><li><em> 2023-12-21</em> <a href='https://nicolamustone.blog/2023/12/21/improve-woocommerce-related-products-recommendations/'>WooCommerce Related Products: What and How to Improve Them</a></li><!-- PROGRAMMING:END -->
 </ul>
 
 #### 🧭 Leadership

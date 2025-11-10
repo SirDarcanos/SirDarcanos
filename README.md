@@ -1,14 +1,15 @@
-# Hi there, I’m Nico 👋
-
-<p>
+<h1 align="center">Hi, I'm Nico 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=3000&pause=1000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=435&lines=Support+Lead+%40+Automattic;Writer+%40+nicolamustone.blog;Python%2FPHP+programmer;Leader.+Writer.+Builder." alt="Typing SVG" /></a>
+</p>
+<p align="center">
   <a href="https://nicolamustone.blog/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Blog-8440dd.svg?&style=for-the-badge&logo=wordpress&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nicolamustone/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/intent/follow?screen_name=nicolamustone&tw_p=followbutton" target="_blank"><img alt="Follow on X" src="https://img.shields.io/badge/Follow_on_X-ffffff.svg?&style=for-the-badge&logo=x&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/nicolamustone/](https://profiles.wordpress.org/nicolamustone/)" target="_blank"><img alt="WordPress.org" src="https://img.shields.io/badge/WordPress.org-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 </p>
 
-💼 Support Lead at [@Automattic](https://github.com/Automattic) — helping people and teams get the most out of [WordPress.com](https://wordpress.com).  
-💡 Focused on leadership, clear systems, and tools that make work easier.  
+---
 
 I’ve spent years at the intersection of **technology, communication, and leadership**, learning how clarity and good systems make both people and products stronger.  
 Here on GitHub, I explore the practical side of tech — building small tools, writing automation scripts, and analyzing data that helps teams and users succeed.
@@ -36,7 +37,7 @@ I’m especially interested in where **technology and leadership** meet — how 
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-### Elsewhere
+### My Writing
 I write [short essays about **leadership, programming, and the web**](https://nicolamustone.blog) — focused on real work, not hype.
 
 ---

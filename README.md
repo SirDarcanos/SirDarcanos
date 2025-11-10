@@ -41,8 +41,7 @@ I’m especially interested in where **technology and leadership** meet — how 
 I write [short essays about **leadership, programming, and the web**](https://nicolamustone.blog) — focused on real work, not hype.
 
 #### 🧠 Programming
-<!-- PROGRAMMING:START -->
-<!-- PROGRAMMING:END -->
+<!-- PROGRAMMING:START -->- ( 2025-11-04) [Vibe Coding: The Hottest Programming Language of the Year](https://nicolamustone.blog/2025/11/04/vibe-coding-hottest-programming-language-2025/)- ( 2025-11-02) [How I Automated My X Account Cleanup](https://nicolamustone.blog/2025/11/02/automated-x-account-cleanup/)- ( 2023-12-21) [WooCommerce Related Products: What and How to Improve Them](https://nicolamustone.blog/2023/12/21/improve-woocommerce-related-products-recommendations/)<!-- PROGRAMMING:END -->
 
 #### 🧭 Leadership
 <!-- LEADERSHIP:START -->

@@ -47,7 +47,7 @@ I write [short essays about **leadership, programming, and the web**](https://ni
 
 #### 🧭 Leadership
 <ul>
-<!-- LEADERSHIP:START -->- ( 2025-10-23) [How Gaming Made Me a Better Leader](https://nicolamustone.blog/2025/10/23/gaming-made-me-better-leader/)<!-- LEADERSHIP:END -->
+<!-- LEADERSHIP:START --><li><em> 2025-10-23</em> <a href='https://nicolamustone.blog/2025/10/23/gaming-made-me-better-leader/'>How Gaming Made Me a Better Leader</a></li><!-- LEADERSHIP:END -->
 </ul>
 
 #### 🌐 Web Tech

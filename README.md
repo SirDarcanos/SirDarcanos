@@ -40,6 +40,18 @@ I’m especially interested in where **technology and leadership** meet — how 
 ### My Writing
 I write [short essays about **leadership, programming, and the web**](https://nicolamustone.blog) — focused on real work, not hype.
 
+#### 🧠 Programming
+<!-- PROGRAMMING:START -->
+<!-- PROGRAMMING:END -->
+
+#### 🧭 Leadership
+<!-- LEADERSHIP:START -->
+<!-- LEADERSHIP:END -->
+
+#### 🌐 Web Tech
+<!-- WEB:START -->
+<!-- WEB:END -->
+
 ---
 
 ### Outside of work

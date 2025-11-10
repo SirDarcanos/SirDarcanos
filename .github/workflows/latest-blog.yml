@@ -2,7 +2,7 @@ name: Latest blog post workflow
 
 on:
   schedule:
-    - cron: "0 3 * * 1-7"
+    - cron: '0 3 * * *'   # Every day 03:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -10,35 +10,37 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Update README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Update this repo's README with latest blog posts
         uses: actions/checkout@v4
 
-      # 🐍 Programming
+      # Programming
       - name: Update Programming posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://nicolamustone.blog/category/programming/feed/"
           max_post_count: 3
           comment_tag_name: "PROGRAMMING"
-          template: "- [$title]($url)"
+          template: "- ($date) [$title]($url)"
+          date_format: "UTC: yyyy-mm-dd"
 
-      # 🧭 Leadership
+      # Leadership
       - name: Update Leadership posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://nicolamustone.blog/category/leadership/feed/"
           max_post_count: 3
           comment_tag_name: "LEADERSHIP"
-          template: "- [$title]($url)"
+          template: "- ($date) [$title]($url)"
+          date_format: "UTC: yyyy-mm-dd"
 
-      # 🌐 Web Tech
+      # Web Tech
       - name: Update Web Tech posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://nicolamustone.blog/category/web/feed/"
           max_post_count: 3
           comment_tag_name: "WEB"
-          template: "- [$title]($url)"
+          template: "- ($date) [$title]($url)"
+          date_format: "UTC: yyyy-mm-dd"

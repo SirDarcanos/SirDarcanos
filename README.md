@@ -58,7 +58,7 @@ I write [short essays about **leadership, programming, and the web**](https://ni
 ---
 
 ### Outside of work
-When I’m not deep in code or support dashboards, I’m probably:  
+When I’m not working, I’m probably:  
 - Running long-form *Dungeons & Dragons* campaigns
 - Writing new essays on [nicolamustone.blog](https://nicolamustone.blog)
 - Coding on some project that will likely become public

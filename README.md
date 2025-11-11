@@ -30,7 +30,7 @@ I’m especially interested in where **technology and leadership** meet — how 
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img alt="WooCommerce" src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woo&logoColor=white" />
-  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-ffffff?style=for-the-badge&logoColor=black" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-ffffff?style=for-the-badge&logo=openai&logoColor=black" />
   <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />

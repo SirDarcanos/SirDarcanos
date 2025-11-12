@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nico 👋</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=3000&pause=1000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=435&lines=Support+Lead+%40+Automattic;Writer+%40+nicolamustone.blog;Python%2FPHP+programmer;Leader.+Writer.+Builder." alt="Typing SVG" /></a>
+  <a href="https://nicolamustone.blog"><img src="https://readme-typing-svg.demolab.com?font=&duration=3000&pause=1000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=435&lines=Support+Lead+%40+Automattic;Writer+%40+nicolamustone.blog;Python%2FPHP+programmer;Leader.+Writer.+Builder." alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <a href="https://nicolamustone.blog/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Blog-8440dd.svg?&style=for-the-badge&logo=wordpress&logoColor=white" /></a>

@@ -6,7 +6,7 @@
   <a href="https://nicolamustone.blog/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Blog-8440dd.svg?&style=for-the-badge&logo=wordpress&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/nicolamustone/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/intent/follow?screen_name=nicolamustone&tw_p=followbutton" target="_blank"><img alt="Follow on X" src="https://img.shields.io/badge/Follow_on_X-ffffff.svg?&style=for-the-badge&logo=x&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/nicolamustone/](https://profiles.wordpress.org/nicolamustone/)" target="_blank"><img alt="WordPress.org" src="https://img.shields.io/badge/WordPress.org-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+  <a href="https://profiles.wordpress.org/nicolamustone/" target="_blank"><img alt="WordPress.org" src="https://img.shields.io/badge/WordPress.org-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white" /></a>
 </p>
 
 ---

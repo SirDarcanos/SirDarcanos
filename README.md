@@ -42,7 +42,7 @@ I write [short essays about **leadership, programming, and the web**](https://ni
 
 #### 🧠 Programming
 <ul>
-<!-- PROGRAMMING:START --><li><em> 2025-11-04</em> <a href='https://nicolamustone.blog/2025/11/04/vibe-coding-hottest-programming-language-2025/'>Vibe Coding: The Hottest Programming Language of the Year</a></li><li><em> 2025-11-02</em> <a href='https://nicolamustone.blog/2025/11/02/automated-x-account-cleanup/'>How I Automated My X Account Cleanup</a></li><li><em> 2023-12-21</em> <a href='https://nicolamustone.blog/2023/12/21/improve-woocommerce-related-products-recommendations/'>WooCommerce Related Products: What and How to Improve Them</a></li><!-- PROGRAMMING:END -->
+<!-- PROGRAMMING:START --><li><em> 2023-11-24</em> <a href='https://nicolamustone.blog/2023/11/24/smartbill-woocommerce-integration-multicurrency-woopayments/'>SmartBill WooCommerce Integration and Multi Currency with WooPayments</a></li><li><em> 2023-11-07</em> <a href='https://nicolamustone.blog/2023/11/07/how-display-custom-product-attributes-edit-order-screen/'>How to Display Custom Product Attributes on the Edit Order Screen</a></li><li><em> 2023-10-30</em> <a href='https://nicolamustone.blog/2023/10/30/how-change-add-to-cart-text-everywhere-woocommerce/'>How to Change the Add to Cart Text Everywhere in WooCommerce</a></li><!-- PROGRAMMING:END -->
 </ul>
 
 #### 🧭 Leadership

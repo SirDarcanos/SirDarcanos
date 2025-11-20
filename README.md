@@ -53,7 +53,7 @@ I write [short essays about **leadership, programming, and the web**](https://bu
 
 #### 🌐 Web Tech
 <ul>
-<!-- WEB:START --><li><em> 2023-12-05</em> <a href='https://nicolamustone.blog/2023/12/05/ai-and-chatgpt-in-wordpress-a-year-of-transformation/'>AI in WordPress: A Year of Transformation</a></li><li><em> 2023-11-21</em> <a href='https://nicolamustone.blog/2023/11/21/why-i-switched-to-jetpack-newsletter-for-my-wordpress-blog/'>Why I Switched to Jetpack Newsletter for My WordPress Blog</a></li><li><em> 2020-02-26</em> <a href='https://nicolamustone.blog/2020/02/26/why-did-i-move-my-site-wordpress-com/'>Why Did I Move My Site to WordPress.com?</a></li><!-- WEB:END -->
+<!-- WEB:START --><li><em> 2025-11-14</em> <a href='https://buthonestly.io/web/vibe-writing-line-between-human-machine/'>Vibe Writing and the Line Between Human and Machine</a></li><li><em> 2025-10-24</em> <a href='https://buthonestly.io/web/set-up-tensorflow-docker-jupyter-notebook/'>Set Up TensorFlow with Docker and Jupyter Notebook</a></li><li><em> 2025-10-22</em> <a href='https://buthonestly.io/web/top-5-essential-wordpress-plugins-i-always-install-and-why/'>Top 5 Essential WordPress Plugins I Always Install &lpar;and Why&rpar;</a></li><!-- WEB:END -->
 </ul>
 
 ---

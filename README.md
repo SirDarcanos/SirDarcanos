@@ -48,7 +48,7 @@ I write [short essays about **leadership, programming, and the web**](https://bu
 
 #### 🧭 Leadership
 <ul>
-<!-- LEADERSHIP:START --><li><em> 2025-10-23</em> <a href='https://nicolamustone.blog/2025/10/23/gaming-made-me-better-leader/'>How Gaming Made Me a Better Leader</a></li><!-- LEADERSHIP:END -->
+<!-- LEADERSHIP:START --><li><em> 2025-11-17</em> <a href='https://buthonestly.io/leadership/mastering-effective-feedback-facts-feelings-curiosity/'>Mastering Effective Feedback: Facts, Feelings, and Curiosity</a></li><li><em> 2025-10-23</em> <a href='https://buthonestly.io/leadership/gaming-made-me-better-leader/'>How Gaming Made Me a Better Leader</a></li><li><em> 2025-09-30</em> <a href='https://buthonestly.io/leadership/psychological-safety-in-teams-people-first-leadership/'>Building Psychological Safety in Teams Through People-First Leadership</a></li><!-- LEADERSHIP:END -->
 </ul>
 
 #### 🌐 Web Tech

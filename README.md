@@ -53,7 +53,7 @@ I write [short essays about **leadership, programming, and the web**](https://bu
 
 #### 🌐 Web Tech
 <ul>
-<!-- WEB:START --><li><em> 2025-11-24</em> <a href='https://buthonestly.io/web/ai-slop-midas-touch-modern-internet/'>Touched by AI, Treated Like Slop: The Midas Touch of The Modern Internet</a></li><li><em> 2025-11-14</em> <a href='https://buthonestly.io/web/vibe-writing-line-between-human-machine/'>Vibe Writing and the Line Between Human and Machine</a></li><li><em> 2025-10-24</em> <a href='https://buthonestly.io/web/set-up-tensorflow-docker-jupyter-notebook/'>Set Up TensorFlow with Docker and Jupyter Notebook</a></li><!-- WEB:END -->
+<!-- WEB:START --><li><em> 2025-12-01</em> <a href='https://buthonestly.io/web/wordpress-blocks-telex/'>Vibe Coding WordPress Blocks with Telex</a></li><li><em> 2025-11-24</em> <a href='https://buthonestly.io/web/ai-slop-midas-touch-modern-internet/'>Touched by AI, Treated Like Slop: The Midas Touch of The Modern Internet</a></li><li><em> 2025-11-14</em> <a href='https://buthonestly.io/web/vibe-writing-line-between-human-machine/'>Vibe Writing and the Line Between Human and Machine</a></li><!-- WEB:END -->
 </ul>
 
 ---

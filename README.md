@@ -53,7 +53,7 @@ I write [short essays about **leadership, programming, and the web**](https://bu
 
 #### 🌐 Web Tech
 <ul>
-<!-- WEB:START --><li><em> 2025-12-07</em> <a href='https://buthonestly.io/web/10-types-of-websites/'>10 Types of Websites and What I’d Use to Build Them</a></li><li><em> 2025-12-01</em> <a href='https://buthonestly.io/web/wordpress-blocks-telex/'>Vibe Coding WordPress Blocks with Telex</a></li><li><em> 2025-11-24</em> <a href='https://buthonestly.io/web/ai-slop-midas-touch-modern-internet/'>Touched by AI, Treated Like Slop: The Midas Touch of The Modern Internet</a></li><!-- WEB:END -->
+<!-- WEB:START --><li><em> 2026-01-13</em> <a href='https://buthonestly.io/web/what-is-a-web-developer/'>What Is a Web Developer? How I Became One Before AI</a></li><li><em> 2025-12-07</em> <a href='https://buthonestly.io/web/10-types-of-websites/'>10 Types of Websites and What I’d Use to Build Them</a></li><li><em> 2025-12-01</em> <a href='https://buthonestly.io/web/wordpress-blocks-telex/'>Vibe Coding WordPress Blocks with Telex</a></li><!-- WEB:END -->
 </ul>
 
 ---

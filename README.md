@@ -43,7 +43,7 @@ I write [short essays about **leadership, programming, and the web**](https://bu
 
 #### 🧠 Programming
 <ul>
-<!-- PROGRAMMING:START --><li><em> 2025-11-27</em> <a href='https://buthonestly.io/programming/neural-network-predict-resin-usage-3d-printed-miniatures/'>How I Built a 3D Print Cost Calculator with a Neural Network</a></li><li><em> 2025-11-20</em> <a href='https://buthonestly.io/programming/distilroberta-emotion-analysis-nlp-case-study/'>DistilRoBERTa Emotion Analysis: NLP Case Study on Steam Reviews</a></li><li><em> 2025-11-04</em> <a href='https://buthonestly.io/programming/what-is-vibe-coding-how-to-do-it/'>What is Vibe Coding and How to Do It</a></li><!-- PROGRAMMING:END -->
+<!-- PROGRAMMING:START --><li><em> 2026-01-20</em> <a href='https://buthonestly.io/programming/limits-of-machine-learning/'>AI Is Not an Oracle: The Limits of Machine Learning</a></li><li><em> 2025-11-27</em> <a href='https://buthonestly.io/programming/neural-network-predict-resin-usage-3d-printed-miniatures/'>How I Built a 3D Print Cost Calculator with a Neural Network</a></li><li><em> 2025-11-20</em> <a href='https://buthonestly.io/programming/distilroberta-emotion-analysis-nlp-case-study/'>DistilRoBERTa Emotion Analysis: NLP Case Study on Steam Reviews</a></li><!-- PROGRAMMING:END -->
 </ul>
 
 #### 🧭 Leadership

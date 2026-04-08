@@ -53,7 +53,7 @@ I write [short essays about **leadership, programming, and the web**](https://bu
 
 #### 🌐 Web Tech
 <ul>
-<!-- WEB:START --><li><em> 2026-03-02</em> <a href='https://buthonestly.io/web/wordpress-site-performance-vs-desig/'>Design vs. Performance: Balance for Your WordPress Site</a></li><li><em> 2026-02-18</em> <a href='https://buthonestly.io/web/choosing-what-to-play/'>Using AI To Choose What To Play With ADHD</a></li><li><em> 2026-02-07</em> <a href='https://buthonestly.io/web/adhd-planner/'>My Mental ADHD Planner: How I Blog Without Burning Out</a></li><!-- WEB:END -->
+<!-- WEB:START --><li><em> 2026-04-07</em> <a href='https://buthonestly.io/web/how-to-build-a-github-profile-readme-that-feels-like-you/'>How to Build a GitHub Profile README That Feels Like You</a></li><li><em> 2026-03-02</em> <a href='https://buthonestly.io/web/wordpress-site-performance-vs-desig/'>Design vs. Performance: Balance for Your WordPress Site</a></li><li><em> 2026-02-18</em> <a href='https://buthonestly.io/web/choosing-what-to-play/'>Using AI To Choose What To Play With ADHD</a></li><!-- WEB:END -->
 </ul>
 
 ---

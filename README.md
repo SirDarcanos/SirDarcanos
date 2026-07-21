@@ -48,7 +48,7 @@ I write [short essays about **leadership, programming, and the web**](https://bu
 
 #### 🧭 Leadership
 <ul>
-<!-- LEADERSHIP:START --><li><em> 2026-06-06</em> <a href='https://buthonestly.io/leadership/learning-care-without-feeling/'>Learning to Care Without Feeling It</a></li><li><em> 2026-01-02</em> <a href='https://buthonestly.io/leadership/team-building-activities-for-work/'>Team Building Activities That Upskill Without Forced Fun</a></li><li><em> 2025-12-19</em> <a href='https://buthonestly.io/leadership/time-off-for-leaders/'>Time Off for Leaders: Can You Really Step Away?</a></li><!-- LEADERSHIP:END -->
+<!-- LEADERSHIP:START --><li><em> 2026-06-07</em> <a href='https://buthonestly.io/learning-care-without-feeling/'>Learning to Care Without Feeling It</a></li><li><em> 2026-01-02</em> <a href='https://buthonestly.io/team-building-activities-for-work/'>Team Building Activities That Upskill Without Forced Fun</a></li><li><em> 2025-12-19</em> <a href='https://buthonestly.io/time-off-for-leaders/'>Time Off for Leaders: Can You Really Step Away?</a></li><!-- LEADERSHIP:END -->
 </ul>
 
 #### 🌐 Web Tech
